@@ -34,7 +34,7 @@ if (bday_icon) {
       <div class="clearfix _ikh">
         <div class="_4bl7">
           <div class="_5pmc">
-            <i class="img sp_zR425wRe-ty_2x sx_ecb85f" id="zod"></i>
+            <i class="img sp_zR425wRe-ty_2x sx_ecb85f" id="zodiac_icon"></i>
           </div>
         </div>
         <div class="_4bl9 _2pis _2dbl">
@@ -53,5 +53,5 @@ if (bday_icon) {
 
   const last_item = document.querySelector(`div._4bl9._zu9 > ul > li:nth-child(${overview_items.length})`);
   last_item.appendChild(zodiac_item);
-  document.getElementById('zod').style.backgroundImage = `url("https://raw.githubusercontent.com/skinsshark/Astrologybook/master/signs/${sign}.png")`;
+  document.getElementById('zodiac_icon').style.backgroundImage = `url("https://raw.githubusercontent.com/skinsshark/Astrologybook/master/signs/${sign}.png")`;
 }
