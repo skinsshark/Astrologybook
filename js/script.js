@@ -15,7 +15,7 @@ if (bday_icon) {
     9: [22, 'Virgo'],
     10: [22, 'Libra'],
     11: [21, 'Scorpio'],
-    12: [21, 'Saggitarius']
+    12: [21, 'Sagittarius']
   };
 
   const rgx = /([JFMASOND].*[a-z]) (\d{0,2})/;
