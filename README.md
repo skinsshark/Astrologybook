@@ -14,4 +14,4 @@ a convenient extension to display zodiac signs beside birthdays on Facebook so y
 3. check `Developer mode`
 4. click `Load unpacked extension...`
 5. upload folder
-6. extension should now be enabled, go to https://www.facebook.com/CUTE_BOYS_USERNAME_HERE/about and find out how compatible you guys are together
+6. extension should now be enabled, go to https://www.facebook.com/CUTE_FRIEND_USERNAME_HERE/about and find out how compatible you are together
