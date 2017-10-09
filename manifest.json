@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Astrologybook",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.facebook.com/*/about*"
+      ],
+      "css": [
+        "css/style.css"
+      ],
+      "js": [
+        "js/script.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": ["css/style.css"]
+}
