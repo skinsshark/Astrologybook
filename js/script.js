@@ -6,7 +6,7 @@ if (bday_icon) {
   const zodiac_signs = {
     1: [19, 'Capricorn'],
     2: [18, 'Aquarius'],
-    3: [20, 'Pieces'],
+    3: [20, 'Pisces'],
     4: [19, 'Aries'],
     5: [20, 'Taurus'],
     6: [20, 'Gemini'],
