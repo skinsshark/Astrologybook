@@ -53,5 +53,5 @@ if (bday_icon) {
 
   const last_item = document.querySelector(`div._4bl9._zu9 > ul > li:nth-child(${overview_items.length})`);
   last_item.appendChild(zodiac_item);
-  document.getElementById('zod').style.backgroundImage = `url("https://raw.githubusercontent.com/skinsshark/Astrologybook/master/signs/${sign.toLowerCase()}.png")`;
+  document.getElementById('zod').style.backgroundImage = `url("https://raw.githubusercontent.com/skinsshark/Astrologybook/master/signs/${sign}.png")`;
 }
